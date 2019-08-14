@@ -4,4 +4,6 @@ This repository is intended to learn how to create a neural network using JS and
 
 If you would like to contribute, clone the repository and send a pull request. :D
 
+Find more at: [synaptic](https://github.com/cazala/synaptic)
+
 Thank you!
